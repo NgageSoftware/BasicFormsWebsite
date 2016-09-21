@@ -7,11 +7,11 @@ Developing a website with NgageCMS, the base project template has everything inc
 Running the base template project, will by default display a series of web pages utilising the bootstrap control toolkit.
 
 ## Requirements
-Visual Studio 2013 or higher
-API URL (supplied by Ngage Software)
-Basic knowledge of C# and Web Forms
-Setup
+1. Visual Studio 2013 or higher
+2. API URL (supplied by Ngage Software)
+3. Basic knowledge of C# and Web Forms
 
+##Setup
 1. <a href="http://www.ngage.software/for-developers/visual-studio-project-download/" target="_blank">Request a development key</a>
 2. Download the base project
 2. Open Visual Studio
