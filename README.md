@@ -12,7 +12,8 @@ API URL (supplied by Ngage Software)
 Basic knowledge of C# and Web Forms
 Setup
 
-1. Download the base project
+1. <a href="http://www.ngage.software/for-developers/visual-studio-project-download/" target="_blank">Request a development key</a>
+2. Download the base project
 2. Open Visual Studio
 3. Select File - New Project
 4. Select 'Ngage Base Project' from the template list
